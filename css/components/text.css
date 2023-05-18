@@ -1,0 +1,23 @@
+h1{
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.wagontext {
+  color: rgba(255, 0, 191, 0.296);
+  font-weight: bold;
+}
+
+.fa-brands {
+  font-size: 50px;
+  color: rgba(255, 0, 191, 0.296);
+}
+
+.fa-brands:hover {
+  font-size: 60px;
+  color: rgba(255, 0, 191, 0.387);
+  transition: all 0.5s;
+}
